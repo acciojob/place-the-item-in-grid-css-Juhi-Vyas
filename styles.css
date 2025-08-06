@@ -4,4 +4,5 @@
 	display: grid;
 	grid: repeat(2, 200px) auto-flow;
 	grid-template-columns: 100px 100px;
+	grid-template-rows: 100px 100px;
 }
